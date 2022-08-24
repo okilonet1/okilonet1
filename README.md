@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native & Flutter**
 
-- 💬 Ask me about **React, Python, C++**
+- 💬 Ask me about **React, NextJS, Python**
 
 - 📫 How to reach me **okilonet1@gmail.com**
 
