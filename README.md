@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, NextJS, Python**
 
-- 📫 How to reach me **okilonet1@gmail.com**
+- 📫 How to reach me **contact@onyekachi.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
